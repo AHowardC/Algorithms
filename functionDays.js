@@ -34,7 +34,7 @@ reverse(); //The reverse() method reverses an array in place.
 // becomes the first.
 
 
-join(); //The join() method joins all elements of an array (or an array-like object)
+join(); //The  join() method joins all elements of an array (or an array-like object)
  // into a string and returns this string.
 //Parameters
 // separator Optional
