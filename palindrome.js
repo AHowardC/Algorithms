@@ -10,6 +10,8 @@ function palindrome(str) {
 	return false
 }
 
+
+
 palindrome('racecar')
 // .split('')
 // .reverse()
