@@ -23,6 +23,9 @@ Functions
 -functions should only do one thing 
 
 // Methods to know
+.reduce()
+map
+splice
 
 split(); //The split() method splits a String object into an array
  // of strings by separating the string into substrings, using a specified separator
