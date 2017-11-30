@@ -7,6 +7,7 @@ function findLongestWord(str){
 
 findLongestWord('The quick brown fox jumped over the lazy dog');
 //  var words = str.split(' ');
+//  var longest = ''
 // var fruits = [
 //   'apple',
 //   'mango',
