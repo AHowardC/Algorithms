@@ -6,7 +6,6 @@ function findLongestWord(str){
 }
 
 findLongestWord('The quick brown fox jumped over the lazy dog');
-//  var words = str.split(' ');
 //  var longest = ''
 // var fruits = [
 //   'apple',
@@ -16,3 +15,10 @@ findLongestWord('The quick brown fox jumped over the lazy dog');
 // for (var i=0; i<fruits.length; i++){
 //   console.log(fruits[i]);
 // }
+// var words = str.split(' ');
+  var longest = '';
+  for(var word of words){
+    if(word.length > longest.length)
+    longest = word;
+  }
+  return longest.length;
