@@ -11,8 +11,8 @@ function titleCase(str){
 titleCase('i am a title of some book or movie')
 
 
-// var p2 = put the words into an Array
-//   var p3 = each Array [0] index make it toUpperCase()
-//   var p4 = join() the Array back to a str
+//  put the words into an Array
+//    each Array [0] index make it toUpperCase()
+//    join() the Array back to a str
 
 split the string by empty space
