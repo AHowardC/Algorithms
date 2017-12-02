@@ -5,7 +5,7 @@ function findLongestWord(str){
  
 }
 
-findLongestWord('The quick brown fox jumped over the lazy dog');
+findLongestWord('The challenge is here');
 //  var longest = ''
 // var fruits = [
 //   'apple',
