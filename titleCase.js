@@ -11,7 +11,7 @@ function titleCase(str){
 titleCase('i am a title of some book or movie')
 
 
-//  put the words into an Array
+//  put  the words into an Array
 //    each Array [0] index make it toUpperCase()
 //    join() the Array back to a str
 
