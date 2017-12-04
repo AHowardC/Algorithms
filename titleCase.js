@@ -1,7 +1,7 @@
 function titleCase(str){
   var words = str.toLowerCase().split(' ')
   console.log(words)
-  for (i=0; i<words.length; i++){
+  for (i = 0; i < words.length; i++){
     words[i] = words[i][0].toUpperCase() + words[i].slice(1)
   }
   console.log(words)
