@@ -6,7 +6,11 @@ function largestOfFour(arr) {
 		
 		using nested loop
 		for (var j = 0; j < arr[i].length; j++) {
+			var currentElement = arr[i][j];
 			console.log(arr[i][j]);
+
 		}
 	}
 }
+
+largestOfFour([[4,5,1,3],[13,27,18,26],[32,35,37,39],[99,111,1120,545]])
