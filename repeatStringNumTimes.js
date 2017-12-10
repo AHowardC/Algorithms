@@ -8,5 +8,4 @@ function repeatStringNumTimes(str, num) {
 
 repeatStringNumTimes('abc', 3)
 
-
 console.log('hello   '.repeat(3));
