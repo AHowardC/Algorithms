@@ -12,7 +12,6 @@ return final;
 
 repeatStringNumTimes('abc', 3)
 
-console.log('say hello   '.repeat(3));
 
 // Works
 // if (num < 0) {
