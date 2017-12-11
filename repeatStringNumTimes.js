@@ -1,5 +1,5 @@
 function repeatStringNumTimes(str, num) {
-  // repeat after me
+  // repeat after me #8
   if (num < 0) {
     return "";
   }
