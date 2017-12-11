@@ -13,7 +13,7 @@ return final;
 repeatStringNumTimes('abc', 3)
 
 
-// Works
+// Works using the .repeat method.
 // if (num < 0) {
 //   return "";
 // }
