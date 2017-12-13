@@ -11,7 +11,7 @@ function largestOfFour(arr) {
 			var currentElement = arr[i][j];
 			console.log(arr[i][j]);
 			if (currentElement >= tempMax) {
-				tempMax = currentElement
+				tempMax = currentElement;
 			}
 		}
 		max.push(tempMax);
