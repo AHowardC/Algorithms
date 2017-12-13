@@ -3,7 +3,7 @@ function repeatStringNumTimes(str, num) {
   var final = ''
   if(num < 0) {
     return "";
-    for (var i = 0; i < num; i++){
+    for (var i = 0; i < num; i++ ){
       final = final + str;
     }
   }
