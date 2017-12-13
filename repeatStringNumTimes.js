@@ -19,7 +19,7 @@ if(num < 0){
 if(num === 1){
   return str; //base case
 }
-return str + repeatStringNumTimes(str, num -1);
+return str + repeatStringNumTimes(str, num - 1);
 
 // Works using the .repeat() method.
 // if (num < 0) {
