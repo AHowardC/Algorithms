@@ -5,13 +5,13 @@ function largestOfFour(arr) {
 		console.log(tempMax)
 		console.log(arr[i])
 
-		
+
 		using nested loop
 		for (var j = 0; j < arr[i].length; j++) {
 			var currentElement = arr[i][j];
 			console.log(arr[i][j]);
 			if (currentElement >= tempMax) {
-				tempMax = currentElement;
+				tempMax = currentElement
 			}
 		}
 		max.push(tempMax);
