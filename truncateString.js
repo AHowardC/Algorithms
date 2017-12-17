@@ -3,3 +3,4 @@ function truncateString(str, num) {
 }
 
 truncateString('', 2)
+// slice()method
