@@ -1,5 +1,8 @@
 function ChunkArrayInGroup(arr, size) {
   var groups = [];
+  while (arr.length > 0) {
+      groups.push(arr.slice(0, size))
+  }
   return arr;
 }
 
