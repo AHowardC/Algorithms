@@ -1,5 +1,5 @@
 function ChunkArrayInGroup(arr, size) {
-  var groups =
+  var groups = [];
   return arr;
 }
 
