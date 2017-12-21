@@ -1,5 +1,5 @@
-function Slasher(arr, amt) {
-
+function Slasher(arr, rm) {
+  arr.splice(0,rm)
   return arr;
 }
 
