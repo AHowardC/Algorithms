@@ -14,4 +14,4 @@ function mutation(arr) {
 
 // .indexOf() method gives the index Of an array.
 // .toLowerCase() method converts array letters to to LowerCase.
-mutation(['hello','hey'])
+mutation(['hello','he'])
