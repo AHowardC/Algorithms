@@ -15,4 +15,4 @@ titleCase('i am a title of some book or movie')
 //    each Array [0] index make it toUpperCase()
 //    join() the Array back to a str
 
-split the string by empty space
+// split the string by empty space
