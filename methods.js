@@ -1,7 +1,7 @@
 .forEach() iterates over an array BUT also changes the original array.
 .join() converts an array into a string
 .split() converts a string into an array
-.splice()
+.splice()The splice() method changes the contents of an array by removing existing elements and/or adding new elements.
 .slice()
 .reduce()
 .repeat()takes one arg; a number of times to repeat a string. only works on strings.
