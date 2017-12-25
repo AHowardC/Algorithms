@@ -18,6 +18,21 @@ function titlecase(str){
 }
 titlecase('my NAME is A BONd. JaMes BONd.');
 
+// turn into titlecase
+// everything is .toUpperCase except the first letter of each word.
+
+// function reverseTitleCase(str){}
+  var Str = 'TogeTHER everYONe acHieves mORe.';
+  var strToUpper = Str.toUpperCase();
+  // console.log(strToUpper);
+  var strArr = strToUpper.split(' ');
+  console.log(strArr);
+
+  strArr.map(function(word){
+    return word[0].toLowerCase() + word.slice(1);
+  }).join(' ');
+
+
 
 
 
