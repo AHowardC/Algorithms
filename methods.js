@@ -7,8 +7,10 @@
 .reverse()
 .split() converts a string into an array
 .splice()The splice() method changes the contents of an array by removing existing elements and/or adding new elements.
-.slice()
-.toString()
+.slice()The slice() method returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included).
+ The original array will not be modified.
+ 
+.toString() converts and object into a string.
 .toUpperCase() converts a string of letters from LowerCase letters to toUpperCase letters.
 .toLowerCase() converts a string of letters from upperCase letters to LowerCase letters.
 .map(function(index to iterate))makes a copy of an array and does not change the original array.
