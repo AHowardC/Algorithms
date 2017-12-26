@@ -1,6 +1,7 @@
 .charAt() returns a string of the index spicified. if you dont pass it an index it will default to the 0th index
 .find()
 .forEach() iterates over an array BUT also changes the original array.
+.include()
 .join() converts an array into a string
 .reduce()
 .repeat()takes one arg; a number of times to repeat a string. only works on strings.
