@@ -5,7 +5,8 @@
 .join() converts an array into a string
 .reduce()
 .repeat()takes one arg; a number of times to repeat a string. only works on strings.
-.replace()
+.replace()The replace() method returns a new string with some or all matches of a pattern replaced by a replacement.
+The pattern can be a string or a RegExp.The replacement can be a string or a function to be called for each match.
 .reverse()
 .split() converts a string into an array
 .splice()The splice() method changes the contents of an array by removing existing elements and/or adding new elements.
