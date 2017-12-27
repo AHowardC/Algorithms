@@ -13,7 +13,7 @@ The pattern can be a string or a RegExp.The replacement can be a string or a fun
 .slice()The slice() method returns a shallow copy of a portion of an array into a new array object selected from begin to end (end not included).
  The original array will not be modified.
 .sort()
-.toString() converts and object into a string.
+.toString() converts an object into a string.
 .toUpperCase() converts a string of letters from LowerCase letters to toUpperCase letters.
 .toLowerCase() converts a string of letters from upperCase letters to LowerCase letters.
 .map(function(index to iterate))makes a copy of an array and does not change the original array.
