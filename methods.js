@@ -3,7 +3,7 @@
 .forEach() iterates over an array BUT also changes the original array.
 .include()
 .join() converts an array into a string
-.reduce()
+.reduce(function(a,b){})
 .repeat()takes one arg; a number of times to repeat a string. only works on strings.
 .replace()The replace() method returns a new string with some or all matches of a pattern replaced by a replacement.
 The pattern can be a string or a RegExp.The replacement can be a string or a function to be called for each match.
