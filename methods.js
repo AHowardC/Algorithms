@@ -1,7 +1,7 @@
 .charAt() returns a string of the index spicified. if you dont pass it an index it will default to the 0th index
 .find()
 .forEach() iterates over an array BUT also changes the original array.
-.include()
+.include() method determines whether an array includes a certain element, returning true or false as appropriate.
 .join() converts an array into a string
 .reduce(function(a,b){})The reduce() method applies a function against an accumulator and
 each element in the array (from left to right) to reduce it to a single value.
