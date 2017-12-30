@@ -9,3 +9,4 @@ TimeConvert(150);
 
 // using the .floor() method
 // also .round() method
+// use the modulo 
