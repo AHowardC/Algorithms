@@ -8,3 +8,4 @@ return Math.floor(num/60) + ':' + min;
 TimeConvert(150);
 
 // using the .floor() method
+// also .round() method
