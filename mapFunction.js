@@ -11,3 +11,4 @@ var newArray = array.map(function(index){
 });
 console.log(newArray);
 console.log(newArray.join('').repeat(2));
+// used repeat method which takes a number arg
