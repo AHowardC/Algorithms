@@ -1,4 +1,3 @@
-
 //Create a function that take two arguments (hexadecimal string color 1 and 2)
 function averageColor(hexstr1, hexstr2) {
 
