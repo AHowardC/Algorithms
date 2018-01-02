@@ -18,4 +18,4 @@ function averageColor(hexstr1, hexstr2) {
 
 }
 
-averageColor("ffffff", "57578d");
+averageColor("fff0ef", "57348d");
