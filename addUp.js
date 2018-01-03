@@ -10,7 +10,7 @@ return total;
 }
 addUp();
 
-// 1. Define your function with a disctriptive name.
+// 1. Define your function with a disctriptive name (a verb).
 // 2. set your variables needed for the function.
 // 3. set up a for/while loop to increment your array.
 // 4. return the result you want to get back.
