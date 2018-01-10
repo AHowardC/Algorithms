@@ -5,6 +5,8 @@
 // function greet() {
 //   console.log(`Hello ${name} !`);
 // }
+// var outside of function
+
 
 function greet(name) {
 
