@@ -7,8 +7,15 @@ function bouncer(arr) {
   }
   return truthy;
 }
+
+function bouncer(arr){
+  return arr.filter(function(truthyI){
+    return truthyI;
+  });
+}
+
 bouncer([7, 'ate', '', false, 8]);
-// .filter()
+// .filter(function(item){})
 // falsy values {
 //   '',
 //   null,
