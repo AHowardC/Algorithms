@@ -5,13 +5,13 @@ function bouncer(arr) {
 // return truthy values
 
 bouncer([7, 'ate', '', false, 8])
-falsy values {
-  '',
-  null,
-  undefined,
-  false,
-  0,
-  NaN
-
-}
+// falsy values {
+//   '',
+//   null,
+//   undefined,
+//   false,
+//   0,
+//   NaN
+//
+// }
 // .filter()
