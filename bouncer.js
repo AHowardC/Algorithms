@@ -1,10 +1,14 @@
 function bouncer(arr) {
-
-  return arr;
+  var truthy = [];
+  for(let i of arr){
+   if(i){
+     truthy.push(i);
+   }
+  }
+  return truthy;
 }
-// return truthy values
-
-bouncer([7, 'ate', '', false, 8])
+bouncer([7, 'ate', '', false, 8]);
+// .filter()
 // falsy values {
 //   '',
 //   null,
@@ -12,6 +16,4 @@ bouncer([7, 'ate', '', false, 8])
 //   false,
 //   0,
 //   NaN
-//
 // }
-// .filter()
