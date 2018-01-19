@@ -7,3 +7,4 @@ function canYouDrink(arr){
   }
   console.log(canDrink);
 }
+// call it
