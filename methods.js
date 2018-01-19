@@ -20,3 +20,5 @@ The pattern can be a string or a RegExp.The replacement can be a string or a fun
 .toLowerCase() converts a string of letters from upperCase letters to LowerCase letters.
 .map(function(index to iterate))makes a copy of an array and does not change the original array.
 it iterates over an array.
+(for in) and (for of) are ways to loop though objects.
+(for in) will loop through property names, and (for of) will loop though property values. 
