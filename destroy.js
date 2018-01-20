@@ -1,5 +1,5 @@
 function destroy(arr) {
-
+  // Remove all the values
   return arr;
 }
 
