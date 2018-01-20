@@ -5,7 +5,7 @@ function destroy(arr) {
 
 // filter out the optional args
 
-// .filter(function(){})
+// .filter(function(){}) a higher order function
 .indexOf()
 // .includes() returns boolean if found or not
 // arguments keyword
