@@ -1,3 +1,4 @@
+// Takes optional arguments with the arr
 function destroy(arr) {
   // Remove all the values
   return arr;
