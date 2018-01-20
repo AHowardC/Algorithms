@@ -1,6 +1,8 @@
 // Takes optional arguments with the arr
+
 function destroy(arr) {
   // Remove all the values
+  // should filter out elements from arr that match optional args
   return arr;
 }
 
