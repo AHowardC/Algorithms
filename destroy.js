@@ -12,3 +12,4 @@ function destroy(arr) {
 .indexOf()
 // .includes() returns boolean if found or not
 // arguments keyword gives everything back in object format
+// array.from(takes an object)
