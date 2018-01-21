@@ -11,4 +11,4 @@ function destroy(arr) {
 // .filter(function(){}) a higher order function
 .indexOf()
 // .includes() returns boolean if found or not
-// arguments keyword
+// arguments keyword gives everything back in object format
