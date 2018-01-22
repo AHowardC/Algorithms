@@ -7,7 +7,7 @@ function destroy(arr) {
   args.splice(0,1);
   var targets = args;
 
-  // console.log(arr);
+  console.log(arr);
   return arr.filter(function(num){
     return targets.indexOf(num) === -1;
   });
