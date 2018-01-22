@@ -3,6 +3,7 @@
 function destroy(arr) {
   // Remove all the values
   // should filter out elements from arr that match optional args
+  console.log(arr);
   return arr;
 }
 
