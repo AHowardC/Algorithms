@@ -10,7 +10,7 @@ function destroy(arr) {
 // filter out the optional args
 
 // .filter(function(){}) a higher order function
-.indexOf()
+.indexOf()method returns the first index at which a given element can be found in the array, or -1 if it is not present.
 // .includes() returns boolean if found or not
 // arguments keyword gives everything back in object format
 // array.from(takes an object)
