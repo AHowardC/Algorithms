@@ -3,4 +3,4 @@ function getIndexToIns(arr, num) {
   return num;
 }
 
-getIndexToIns([40,50], 4)
+getIndexToIns([40,50], 45)
