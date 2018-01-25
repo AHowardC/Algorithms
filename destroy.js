@@ -10,6 +10,7 @@ function destroy(arr) {
   console.log(arr);
   return arr.filter(function(num){
     return targets.indexOf(num) === -1;
+    
   });
 }
 
