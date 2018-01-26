@@ -16,6 +16,7 @@ function destroy(arr) {
 
 
 // filter out the optional args
+// use filter
 // array.from(takes an object)
 // .filter(function(){}) a higher order function
 // .indexOf()method returns the first index at which a given element can be found in the array, or -1 if it is not present.
