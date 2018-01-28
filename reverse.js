@@ -10,4 +10,4 @@ function reverseString(str){
   return result;
 }
 
-reverseString('My name is a bond. A James BOND.');
+reverseString('My name is a bond.');
