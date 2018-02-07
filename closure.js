@@ -14,5 +14,10 @@ function greet(name) {
 }
 greet('jane smith')
 
+// ways to define functions
+function nameOfFunc(params) {
+  //code block
+}
+
 // var gets hoisted.
 // let does not get hoisted.
