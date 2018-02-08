@@ -19,5 +19,10 @@ function nameOfFunc(params) {
   //code block
 }
 
+var varFuncName = function(params) {
+  //code block
+}
+
+
 // var gets hoisted.
 // let does not get hoisted.
