@@ -15,10 +15,12 @@ function greet(name) {
 greet('jane smith')
 
 // ways to define functions
+// common way to use function which gets hoisted to the top. 
 function nameOfFunc(params) {
   //code block
 }
 
+// functions held inside var don't get hoisted to the top.
 var varFuncName = function(params) {
   //code block
 }
