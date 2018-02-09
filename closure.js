@@ -16,6 +16,8 @@ greet('jane smith')
 
 // ways to define functions
 // common way to use function which gets hoisted to the top. 
+// the order at which you call this funtion does not matter.
+// you can call this function before defining it.
 function nameOfFunc(params) {
   //code block
 }
