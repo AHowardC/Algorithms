@@ -13,3 +13,6 @@ function greet(name) {
   console.log(`hi ${name}. `);
 }
 greet('jane smith')
+
+// var gets hoisted.
+// let does not get hoisted.
