@@ -16,6 +16,8 @@ let b = {s: 'how are you?'};
 let order1 = {a: 'apple', b: 'banana'};
 let order2 = {b: 'banana', a: 'apple'};
 
+console.log(nested3);
+
 let deepEqualsOrderMatters = (a, b) => JSON.stringify(a) === JSON.stringify(b);
 
 let deepEquals = (a, b) => {
