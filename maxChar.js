@@ -47,3 +47,31 @@ function max(str){
 }
 
 console.log(max('hello'));
+
+// find the character that occurs the most in the string
+let someStr = 'iowqjanvoierutiovjowerjlirweioj';
+
+
+
+// function highCount(str){
+//   const charMap = {}; //make empty obj to hold characters
+//   for(let char of str){
+//       charMap[char] = charMap[char] + 1 || 1;
+//   }
+  
+  
+  
+//   //make a count variable that updates highest
+//   let maxCount = 0;
+//   let maxChar = '';
+//   //loop over charMap to find highest count
+//   for(let char in charMap){
+//     if(charMap[char]> maxCount){
+//       maxCount = charMap[char];
+//       maxChar= char;
+//     }
+//   }
+//   return console.log(maxChar, maxCount);
+// }
+
+// highCount(someStr);

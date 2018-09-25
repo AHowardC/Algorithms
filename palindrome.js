@@ -36,4 +36,22 @@ function palindrome(str){
 }
 
 
-console.log(palindrome('tat'));
+console.log(palindrome('hello world!'));
+
+// // reverse a str
+// const someStr = '89889';
+// function revStr(str){
+// //   let reversed =str.split('').reverse().join('');
+// //   console.log(reversed);
+//   let reversed = '';
+//   for(let i of str){
+//     reversed = i + reversed;
+//   }
+//   if(reversed == str){
+//     return console.log(`${str} is a palindrome`);
+//   }else{
+//     return console.log(`${str} is not a palindrome`);
+//   }
+// }
+
+// revStr(someStr);
