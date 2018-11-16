@@ -1,6 +1,6 @@
-var num = 4; //here to trick you
+var num = 4; //trick 
 function outer(){
-  var num = 2; //here to trick you
+  var num = 2; // trick 
   function inner(){
     num++; // this is undefined
     var num = 3;
