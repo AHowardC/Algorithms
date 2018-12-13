@@ -30,3 +30,16 @@ var varFuncName = function(params) {
 
 // var gets hoisted.
 // let does not get hoisted.
+// closure is a function inside another functions
+// body that has access to its outer functions
+// variable scope
+
+// inturpreted langs reads one line at a time
+// compiled langs looks at all lines before running
+
+var a = 'outside';
+
+function closure(b){
+  console.log(a + b);
+}
+closure(' done right');

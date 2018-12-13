@@ -10,4 +10,22 @@ function reverseString(str){
   return result;
 }
 
-reverseString('My word is a bond.');
+reverseString('My bond.');
+
+// function reverse(str){
+//   let reversed = '';
+//   for(let char of str){
+//     reversed = char + " _ " + reversed
+//   }
+//   return reversed;
+// }
+
+
+function reverse(str){
+  return str.split('').reduce((reversed, char)=>
+     char + reversed
+  , "");
+}
+
+
+console.log(reverse('apple'));
