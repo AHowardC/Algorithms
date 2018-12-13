@@ -8,7 +8,7 @@ function addUp(){
 
 return total;
 }
-addUp();
+console.log(addUp());
 
 // 1. Define your function with a disctriptive name (a verb).
 // 2. set your variables needed for the function.
