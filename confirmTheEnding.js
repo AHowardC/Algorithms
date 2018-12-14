@@ -10,3 +10,4 @@ function confirmTheEnding(str, target) {
 	// return str.endsWith(target)
 	
 }
+console.log(confirmTheEnding('ljk', true));
